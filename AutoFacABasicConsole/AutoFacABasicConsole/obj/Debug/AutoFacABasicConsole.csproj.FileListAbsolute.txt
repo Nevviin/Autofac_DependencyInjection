@@ -1,0 +1,16 @@
+D:\MVC_SessionInfy\IOC\AutoFacABasicConsole\AutoFacABasicConsole\bin\Debug\AutoFacABasicConsole.exe.config
+D:\MVC_SessionInfy\IOC\AutoFacABasicConsole\AutoFacABasicConsole\bin\Debug\AutoFacABasicConsole.exe
+D:\MVC_SessionInfy\IOC\AutoFacABasicConsole\AutoFacABasicConsole\bin\Debug\AutoFacABasicConsole.pdb
+D:\MVC_SessionInfy\IOC\AutoFacABasicConsole\AutoFacABasicConsole\bin\Debug\Autofac.dll
+D:\MVC_SessionInfy\IOC\AutoFacABasicConsole\AutoFacABasicConsole\bin\Debug\Autofac.xml
+D:\MVC_SessionInfy\IOC\AutoFacABasicConsole\AutoFacABasicConsole\obj\Debug\AutoFacABasicConsole.exe
+D:\MVC_SessionInfy\IOC\AutoFacABasicConsole\AutoFacABasicConsole\obj\Debug\AutoFacABasicConsole.pdb
+D:\DotNetCode\AutoFacABasicConsole\AutoFacABasicConsole\AutoFacABasicConsole\bin\Debug\AutoFacABasicConsole.exe.config
+D:\DotNetCode\AutoFacABasicConsole\AutoFacABasicConsole\AutoFacABasicConsole\bin\Debug\AutoFacABasicConsole.exe
+D:\DotNetCode\AutoFacABasicConsole\AutoFacABasicConsole\AutoFacABasicConsole\bin\Debug\AutoFacABasicConsole.pdb
+D:\DotNetCode\AutoFacABasicConsole\AutoFacABasicConsole\AutoFacABasicConsole\bin\Debug\Autofac.dll
+D:\DotNetCode\AutoFacABasicConsole\AutoFacABasicConsole\AutoFacABasicConsole\bin\Debug\Autofac.xml
+D:\DotNetCode\AutoFacABasicConsole\AutoFacABasicConsole\AutoFacABasicConsole\obj\Debug\AutoFacABasicConsole.csproj.CoreCompileInputs.cache
+D:\DotNetCode\AutoFacABasicConsole\AutoFacABasicConsole\AutoFacABasicConsole\obj\Debug\AutoFacABasicConsole.csproj.CopyComplete
+D:\DotNetCode\AutoFacABasicConsole\AutoFacABasicConsole\AutoFacABasicConsole\obj\Debug\AutoFacABasicConsole.exe
+D:\DotNetCode\AutoFacABasicConsole\AutoFacABasicConsole\AutoFacABasicConsole\obj\Debug\AutoFacABasicConsole.pdb
